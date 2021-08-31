@@ -48,7 +48,7 @@ int main()
              }         
          
     }
-    else if(i%2==0)
+    else if(i%2==0)  //For player 2
     {
          printf("current status: \n player1:%d \t %d /n player2:%d \t %d \n",player1[0],player1[1],player2[0],player2[1]);
          char x,y,z,s;
